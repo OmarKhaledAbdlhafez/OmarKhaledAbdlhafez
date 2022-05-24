@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Omar Khaled Abdel Hafez</h1>
 <h3 align="center">i am omar khaled 24 years old graduated from faculty of engineering with grade very good , have good knowledge with </h3>
 <ul>
-  <ol> data science track with skills ( math ,sql server, python ,power bi, machine learning , deep learning , ..... etc )  <ol>
-  - good concept about design database , data warehouse and data integration (like ssis ) 
-  - Web Development ( node js , React js )
+  <ol> data science track with skills ( math ,sql server, python ,power bi, machine learning , deep learning , ..... etc )  </ol>
+   <ol> good concept about design database , data warehouse and data integration (like ssis ) </ol>
+   <ol> Web Development ( node js , React js ) </ol>
   </ul>
-I am looking forward to new adventure full with hard work and more experience which make me learn more and more , i just complete my Military service and looking to apply my skills and experience in work 
+<h3> I am looking forward to new adventure full with hard work and more experience which make me learn more and more , i just complete my Military service and looking to apply my skills and experience in work </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omarkhaledabdelhafez&label=Profile%20views&color=0e75b6&style=flat" alt="omarkhaledabdelhafez" /> </p>
 
